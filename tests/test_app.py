@@ -1,4 +1,4 @@
-from app import add
+from app import add, subtract
 
 
 def test_add_positive():
@@ -7,3 +7,7 @@ def test_add_positive():
 
 def test_add_negative():
     assert add(-1, -1) == -2
+
+
+def test_subtract():
+    assert subtract(5, 3) == 2
