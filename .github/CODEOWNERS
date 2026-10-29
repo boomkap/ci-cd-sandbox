@@ -1,0 +1,11 @@
+# CODEOWNERS: who must review changes to which paths.
+# Last matching pattern wins. Each owner needs write access to the repo.
+#
+# TODO: replace <REVIEWER_GITHUB_USERNAME> with the second GitHub account
+# once it has been added as a collaborator, then uncomment the line below
+# and delete the interim line.
+#
+# * @<REVIEWER_GITHUB_USERNAME>
+
+# Interim owner until the reviewer account is added
+* @boomkap
